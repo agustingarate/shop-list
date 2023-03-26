@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900976992299",
+    "firebase_url": "https://shoplist-bdb50-default-rtdb.firebaseio.com",
+    "project_id": "shoplist-bdb50",
+    "storage_bucket": "shoplist-bdb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900976992299:android:b54a215d863735fe7e0a6e",
+        "android_client_info": {
+          "package_name": "com.example.shop_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900976992299-ana80o93tv9b9538h5qb51fv28t5g0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYlxmeo08wLbaD9Qr7TuQVhmH_q_9FhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900976992299-ana80o93tv9b9538h5qb51fv28t5g0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
